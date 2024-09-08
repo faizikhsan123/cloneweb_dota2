@@ -17,7 +17,7 @@ header {
     align-items: center;
     position: relative;
     z-index: 999;
-    background-color: aqua;
+    /* background-color: aqua; */
 }
 
 header nav {
@@ -64,7 +64,7 @@ header nav a {
     width: 1200px;
     max-width: 80%;
     margin: auto;
-    background-color: red;
+    /* background-color: red; */
 }
 
 .slider .list .item .detail .title {
@@ -136,7 +136,7 @@ header nav a {
     z-index: 999;
     display: flex;
     gap: 20px;
-    background-color: #6f7bf7;
+    /* background-color: #6f7bf7; */
 }
 
 .thumbnail .item {
@@ -144,7 +144,7 @@ header nav a {
     height: 220px;
     flex-shrink: 0;
     position: relative;
-    background-color: antiquewhite;
+    /* background-color: antiquewhite; */
 }
 
 .thumbnail .item img {
@@ -180,7 +180,7 @@ header nav a {
     display: flex;
     align-items: center;
     gap: 0.8rem;
-    background-color: #9bf8f4;
+    /* background-color: #9bf8f4; */
 }
 
 .arrows button {
